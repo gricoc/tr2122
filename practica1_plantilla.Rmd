@@ -1,0 +1,99 @@
+---
+title: "Pràctica 1: Transformar"
+author: "Escriviu aquí el nom i cognom de cadascú"
+output: html_document
+---
+
+### Preparació
+
+<!-- No modifiqueu el següent bloc de codi, que carrega el tidyverse i les dades necessàries per a realitzar la pràctica -->
+
+```{r, message=FALSE}
+library(tidyverse)
+cat21 <- read_csv("https://www.dropbox.com/s/515kqif5huxzgnc/cat21.csv?dl=1")
+```
+
+### Exercici 1
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
+### Exercici 2
+
+```{r}
+
+```
+
+### Exercici 3
+
+```{r}
+
+```
+
+### Exercici 4
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
+### Exercici 5
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
+### Exercici 6
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
+### Exercici 7
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
+### Exercici 8
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
+### Exercici 9
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
+### Exercici 10
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
+### Bonus
+
+```{r}
+
+```
+
+Substituïu aquesta línia per la vostra resposta.
+
