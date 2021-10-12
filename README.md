@@ -17,7 +17,8 @@ Materials de l'assignatura mentre no es pugui accedir al Campus Virtual.
 
 ### Pràctiques
 
-##### Pràctica 1
+#### Pràctica 1
 
-- [Instruccions]()
-- [Plantilla]()
+- [Instruccions](https://github.com/gricoc/tr2122/raw/main/practica_1/practica1.html)
+- [Plantilla](https://github.com/gricoc/tr2122/raw/main/practica_1/practica1_plantilla.html)
+
