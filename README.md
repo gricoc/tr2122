@@ -7,5 +7,17 @@ Materials de l'assignatura mentre no es pugui accedir al Campus Virtual.
 
 ### Classes
 
-1. [Introducció a R](https://github.com/gricoc/tr2122/raw/main/intro-R.html)
-2. 
+1. [Presentació](https://github.com/gricoc/tr2122/raw/main/presentacio.html)
+2. [Introducció a R](https://github.com/gricoc/tr2122/raw/main/intro-R.html)
+3. [Dades](https://github.com/gricoc/tr2122/raw/main/dades.html)
+4. [Visualització](https://github.com/gricoc/tr2122/raw/main/viz-intro.html)
+5. [Transformar dades](https://github.com/gricoc/tr2122/raw/main/transformar.html)
+6. [R Markdown](https://github.com/gricoc/tr2122/raw/main/rmarkdown.html)
+
+
+### Pràctiques
+
+##### Pràctica 1
+
+- [Instruccions]()
+- [Plantilla]()
