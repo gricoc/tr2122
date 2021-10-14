@@ -2,7 +2,7 @@
 
 Materials de l'assignatura mentre no es pugui accedir al Campus Virtual.
 
-**Important**: Per obrir els arxius cal que abans us els descarregueu. Cliqueu sobre l'enllaç corresponent amb el botó dret de ratolí (amb Mac, clicar mentre premeu la tecla control) i seleccioneu "Guardar enlace como...". Heu d'obrir l'arxiu que heu descarregat al vostre ordinador.
+**Important**: Per a obrir els arxius cal que abans us els descarregueu. Cliqueu sobre l'enllaç corresponent amb el botó dret de ratolí (amb Mac, clicar mentre premeu la tecla control) i seleccioneu "Guardar enlace como...". Heu d'obrir l'arxiu que heu descarregat al vostre ordinador.
 
 
 ### Classes
