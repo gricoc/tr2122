@@ -13,6 +13,7 @@ Materials de l'assignatura mentre no es pugui accedir al Campus Virtual.
 4. [Visualització](https://github.com/gricoc/tr2122/raw/main/viz-intro.html)
 5. [Transformar dades](https://github.com/gricoc/tr2122/raw/main/transformar.html)
 6. [R Markdown](https://github.com/gricoc/tr2122/raw/main/rmarkdown.html)
+7. [Anàlisi exploratòria amb variables numèriques](https://github.com/gricoc/tr2122/raw/main/viz-num.html)
 
 
 ## Pràctiques
