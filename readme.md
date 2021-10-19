@@ -14,7 +14,7 @@ Materials de l'assignatura mentre no es pugui accedir al Campus Virtual.
 5. [Transformar dades](https://github.com/gricoc/tr2122/raw/main/transformar.html)
 6. [R Markdown](https://github.com/gricoc/tr2122/raw/main/rmarkdown.html)
 7. [Anàlisi exploratòria amb variables numèriques](https://github.com/gricoc/tr2122/raw/main/viz-num.html)
-8. [Anàlisi exploratòria amb variables categòriques](https://github.com/gricoc/tr2122/raw/main/viz-cat.html) ⚠️ Per a aquesta sessió cal que abans us intal·leu el paquet `data.radiant`.
+8. [Anàlisi exploratòria amb variables categòriques](https://github.com/gricoc/tr2122/raw/main/viz-cat.html) ⚠️ Per a aquesta sessió cal que abans us intal·leu el paquet `data.radiant`
 
 
 ## Pràctiques
