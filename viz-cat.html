@@ -174,14 +174,14 @@ glimpse(titanic)
 
 
 ```r
-table(titanic$sex, titanic$survived)
+table(titanic$survived, titanic$sex)
 ```
 
 ```
-##         
-##          Yes  No
-##   female 290  96
-##   male   135 522
+##      
+##       female male
+##   Yes    290  135
+##   No      96  522
 ```
 
 ---
@@ -324,7 +324,7 @@ titanic %&gt;%
 ```r
 titanic %&gt;% 
   ggplot(aes(x = survived)) +
-* geom_bar(aes(fill = survived, y = stat(prop), group = pclass)) +
+* geom_bar(aes(y = stat(prop), group = pclass)) +
   facet_wrap(~ pclass)
 ```
 
