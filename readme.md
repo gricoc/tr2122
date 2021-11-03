@@ -16,6 +16,7 @@ Materials de l'assignatura mentre no es pugui accedir al Campus Virtual.
 7. [Anàlisi exploratòria amb variables numèriques](https://github.com/gricoc/tr2122/raw/main/viz-num.html)
 8. [Anàlisi exploratòria amb variables categòriques](https://github.com/gricoc/tr2122/raw/main/viz-cat.html) ⚠️ Per a aquesta sessió cal que abans us intal·leu el paquet `radiant.data`
 9. [Manipular gràfics](https://github.com/gricoc/tr2122/raw/main/viz-manip.html) ⚠️ Cal instal·lar el paquet `palmerpenguins`
+10. [Factors. Recodificacions](https://github.com/gricoc/tr2122/raw/main/fct-recode.html)
 
 
 ## Pràctiques
