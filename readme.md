@@ -1,6 +1,10 @@
 # Tècniques de recerca 2021-22
 
-Materials de l'assignatura mentre no es pugui accedir al Campus Virtual.
+## :loudspeaker: Avís
+
+A partir del 8 de novembre podeu accedir als materials i fer els lliuraments a través de Teams. Cal que us identifiqueu a Teams amb el vostre correu de la UAB i la nova contrasenya i feu clic a l'enllaç següent: https://teams.microsoft.com/l/team/19%3aArdpyPFaQrAeLBXH9-XnewRRU-ta0C4LULdthAbx5-A1%40thread.tacv2/conversations?groupId=1c06b435-bbbe-42e2-a833-2f5ad69725ee&tenantId=6b514c29-2391-4831-b774-84f35c45bf01 
+
+---
 
 **Important**: Per a obrir els arxius cal que abans us els descarregueu. Cliqueu sobre l'enllaç corresponent amb el botó dret de ratolí (amb Mac, clicar mentre premeu la tecla control) i seleccioneu "Guardar enlace como...". Heu d'obrir l'arxiu que heu descarregat al vostre ordinador.
 
@@ -23,7 +27,7 @@ Materials de l'assignatura mentre no es pugui accedir al Campus Virtual.
 
 ### Pràctica 1
 
-📢 Lliurament posposat fins a nou avís.
+📢 Termini: 11 de novembre
 
 - [Instruccions](https://github.com/gricoc/tr2122/raw/main/practica1.html)
 - [Plantilla](https://github.com/gricoc/tr2122/raw/main/practica1_plantilla.Rmd)
